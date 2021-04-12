@@ -1,0 +1,5 @@
+version: '3'
+
+services:
+  main-service:
+    image: valmirjr66/python-module:1.0
